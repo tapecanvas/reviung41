@@ -1,7 +1,7 @@
-I built my Reviung41 mid April of 2021.
-I got the kit from https://boardsource.xyz/
-It's got an Elite-C MCU, Durock T1 Tactile switches,
-and the keycaps are a set pieced together from:
+*I built my Reviung41 mid April of 2021.
+*I got the kit from https://boardsource.xyz/
+*It's got an Elite-C MCU, Durock T1 Tactile switches,
+*and the keycaps are a set pieced together from:
 https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4714
 and
 https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4713

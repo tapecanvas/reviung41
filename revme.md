@@ -9,6 +9,6 @@ and
 
 ![reviung41](https://github.com/tapecanvas/reviung41/blob/f97fa134da37b8568e6061c9ca0f126dec39da3a/20210420_032927.jpg)
 
-//Still need to:
-*add led's
-*black mcu cover
+Still need to:
+* add led's
+* black mcu cover

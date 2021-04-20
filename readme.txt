@@ -7,3 +7,5 @@ and
 https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4713
 This is my first keyboard smaller than a tenkeyless, so it has taken some getting used to.
 Still trying to get a layout that I find intuitive and useful.
+
+testing git integration in IntelliJ

@@ -1,5 +1,5 @@
 * I built my Reviung41 mid April of 2021.
-* I got the kit from https://boardsource.xyz/
+* I got the kit from [boardsource.xyz](https://boardsource.xyz/)
 * It has an Elite-C MCU, Durock T1 Tactile switches,
 * Keycaps from: [here](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4714)
 and

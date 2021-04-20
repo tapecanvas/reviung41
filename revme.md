@@ -1,3 +1,9 @@
+* About the reviung41:
+* The REVIUNG41 is 41-key column staggered keyboard.
+* Keyboard Maintainer: [gtips](https://github.com/gtips)
+* Hardware Supported: REVIUNG41 PCBs, Pro Micro supported
+* Hardware Availability: [PCB & Case Data](https://github.com/gtips/reviung/tree/master/reviung41)
+---------------------------------------------------------------------------------------------------
 * I built my Reviung41 mid April of 2021.
 * I got the kit from [boardsource.xyz](https://boardsource.xyz/)
 * It has an Elite-C MCU, Durock T1 Tactile switches,
